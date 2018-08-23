@@ -3,3 +3,4 @@ manu
 je suis sur le master
 je suis sur la branche bifur
 je rajoute quelque  chose sur le serveur
+j'ajoute pour mettre en conflit
